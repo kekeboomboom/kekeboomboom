@@ -1,4 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Keboom</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=FFB300&background=F9F9F900&center=true&vCenter=true&random=true&width=435&lines=The+best+Keboom)](https://git.io/typing-svg)
+
+
+
 <h3 align="center">A Fullstack!!!!!!!!!!!GOGOGOGOGOOG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keboom&label=Profile%20views&color=0e75b6&style=flat" alt="keboom" /> </p>
