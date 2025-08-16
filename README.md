@@ -1,10 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Keboom</h1>
-
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=FFB300&background=F9F9F900&center=true&vCenter=true&random=true&width=435&lines=The+best+Keboom)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pinyon+Script&weight=400&pause=1000&color=FFB300&background=F9F9F900&center=true&vCenter=true&random=true&width=435&lines=The+best+Keboom)](https://git.io/typing-svg)
 
 </div>
 
